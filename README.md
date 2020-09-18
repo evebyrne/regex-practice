@@ -6,8 +6,8 @@ to run: node filename.js
 
 # Metacharacters
 * . = any character
-* + = one or more of preceeding char
-* * = zero or more of preceeding char
+* \+ = one or more of preceeding char
+* \* = zero or more of preceeding char
 * ? = lazy match (takes shortest possible match) (default is greedy)
 * [] = character sets (multiple possibilities for a character)
 * [^] = negated character set
