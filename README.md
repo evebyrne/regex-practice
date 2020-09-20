@@ -31,6 +31,12 @@ to run: node filename.js
 ## Negative
 (?!)
 
+# Lookbehinds
+## Positive
+(?<=)
+## Negative
+(?<!)
+
 # Capture Groups
 * (capture group)
 * to repeat \\num times to repeat
